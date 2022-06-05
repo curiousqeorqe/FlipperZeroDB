@@ -2,3 +2,4 @@
 # FlipperZeroDB
 All In One Flipper Zero Database
 
+Slowly but surely adding More
