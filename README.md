@@ -7,6 +7,9 @@ Slowly but surely adding More
 # Want to help?
 [Fork](https://github.com/CoAntics/FlipperZeroDB/fork) add what your going to add and do a pull request
 
+# QFlipper PC APP
+## [Desktop application for updating Flipper Zero firmware via PC](https://flipperzero.one/update)
+
 # Other Usable Firmware - Use At Your Own Risk
 ## [Unleashed firmware - By Eng1n33r](https://github.com/Eng1n33r/flipperzero-firmware/blob/dev/ReadMe.md)
 ## [flipperzero-firmware-wPlugins - By RogueMaster](https://github.com/RogueMaster/flipperzero-firmware-wPlugins/blob/unleashed/README.md)
