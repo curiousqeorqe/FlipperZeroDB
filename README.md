@@ -7,7 +7,7 @@ Slowly but surely adding More
 # Want to help?
 [Fork](https://github.com/CoAntics/FlipperZeroDB/fork) add what your going to add and do a pull request
 
-# Other Usable Firmware
+# Other Usable Firmware - Use At Your Own Risk
 ## [Unleashed firmware](https://github.com/Eng1n33r/flipperzero-firmware/blob/dev/ReadMe.md)
 ## [flipperzero-firmware-wPlugins](https://github.com/RogueMaster/flipperzero-firmware-wPlugins/blob/unleashed/README.md)
 
