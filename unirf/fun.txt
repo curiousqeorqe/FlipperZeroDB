@@ -1,10 +1,12 @@
-UP: /ext/subghz/Handicap/ook650_315brute.sub
-DOWN: /ext/subghz/Doorbells/ook650_433brute.sub
-LEFT: /ext/subghz/Vehicles/Tesla/Tesla_charge_AM650.sub
-RIGHT: /ext/subghz/Vehicles/Tesla/Tesla_charge_AM270.sub
-OK: /ext/subghz/Restaurant_Pagers/BruteForceRest.sub
-ULABEL: Handicap
-DLABEL: DoorBells
-LLABEL: Tesla1
-RLABEL: Tesla2
-OKLABEL: BruteLRS
+Filetype: Flipper SubGhz RAW File
+Version: 1
+UP: /ext/subghz/Tesla/Tesla_charge_AM270.sub
+DOWN: /ext/subghz/Tesla/Tesla_charge_AM650.sub
+LEFT: /ext/subghz/HandicapDoors/HandicapDoor1270.sub
+RIGHT: /ext/subghz/HandicapDoors/HandicapDoor1650.sub
+OK: /ext/subghz/RoboDog/RoboDogKiller.sub
+ULABEL: Tesla AM270 
+DLABEL: Tesla AM650 
+LLABEL: Handi Door 1270 
+RLABEL: Handi Door 1650 
+OKLABEL: RoboDogKiller
