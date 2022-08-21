@@ -1,0 +1,20 @@
+Filetype: IR signals file
+Version: 1
+# 
+name: Power
+type: parsed
+protocol: NEC
+address: 21 00 00 00
+command: 01 00 00 00
+# 
+name: Speed_increase
+type: parsed
+protocol: NEC
+address: 21 00 00 00
+command: 02 00 00 00
+# 
+name: Speed_decrease
+type: parsed
+protocol: NEC
+address: 21 00 00 00
+command: 03 00 00 00
