@@ -11,11 +11,11 @@ Slowly but surely adding More
 ## [Desktop application for updating Flipper Zero firmware via PC](https://flipperzero.one/update)
 
 <details><summary>Other Usable Firmware - Use At Your Own Risk</summary>
- [Unleashed firmware - By Eng1n33r](https://github.com/Eng1n33r/flipperzero-firmware/blob/dev/ReadMe.md)
- [flipperzero-firmware-wPlugins - By RogueMaster](https://github.com/RogueMaster/flipperzero-firmware-wPlugins/blob/unleashed/README.md)
- [flipperzero-firmware - By wetox-team](https://github.com/wetox-team/flipperzero-firmware/blob/dev/ReadMe.md)
- [flipperzero-firmware - By MuddledBox](https://github.com/MuddledBox/flipperzero-firmware/blob/dev/ReadMe.md)
- [flipperzero-firmware - By v1nc](https://github.com/v1nc/flipperzero-firmware/blob/dev/ReadMe.md)
+ Unleashed firmware - By Eng1n33r https://github.com/Eng1n33r/flipperzero-firmware/blob/dev/ReadMe.md
+ flipperzero-firmware-wPlugins - By RogueMaster https://github.com/RogueMaster/flipperzero-firmware-wPlugins/blob/unleashed/README.md
+ flipperzero-firmware - By wetox-team https://github.com/wetox-team/flipperzero-firmware/blob/dev/ReadMe.md
+ flipperzero-firmware - By MuddledBox https://github.com/MuddledBox/flipperzero-firmware/blob/dev/ReadMe.md
+ flipperzero-firmware - By v1nc https://github.com/v1nc/flipperzero-firmware/blob/dev/ReadMe.md
 </details>
 
 # What is this for
