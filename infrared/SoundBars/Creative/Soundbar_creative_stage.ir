@@ -1,110 +1,118 @@
 Filetype: IR signals file
 Version: 1
 # 
-name: POWERToggle
-type: parsed
-protocol: NEC
-address: 20 00 00 00
-command: 0C 00 00 00
+# For Creative Stage 2.1 SoundBars
 # 
-name: VolumeUp
-type: parsed
-protocol: NEC
-address: 20 00 00 00
-command: 02 00 00 00
-# 
-name: VOL-
-type: parsed
-protocol: NEC
-address: 20 00 00 00
-command: 05 00 00 00
-# 
-name: VolumeMute
-type: parsed
-protocol: NEC
-address: 20 00 00 00
-command: 08 00 00 00
-# 
-name: ChannelUp
+name: POWER
 type: parsed
 protocol: NEC
 address: 20 00 00 00
 command: 09 00 00 00
 # 
-name: ChannelDown
+name: VOL+
 type: parsed
 protocol: NEC
 address: 20 00 00 00
 command: 06 00 00 00
 # 
-name: FM
-type: parsed
-protocol: NEC
-address: 20 00 00 00
-command: 16 00 00 00
-# 
-name: BassUp
-type: parsed
-protocol: NEC
-address: 20 00 00 00
-command: 01 00 00 00
-# 
-name: BassDown
-type: parsed
-protocol: NEC
-address: 20 00 00 00
-command: 04 00 00 00
-# 
-name: InputAux
-type: parsed
-protocol: NEC
-address: 20 00 00 00
-command: 17 00 00 00
-# 
-name: InputBT
-type: parsed
-protocol: NEC
-address: 20 00 00 00
-command: 0F 00 00 00
-# 
-name: InputLine
-type: parsed
-protocol: NEC
-address: 20 00 00 00
-command: 0A 00 00 00
-# 
-name: Movie
-type: parsed
-protocol: NEC
-address: 20 00 00 00
-command: 0B 00 00 00
-# 
-name: Music
-type: parsed
-protocol: NEC
-address: 20 00 00 00
-command: 10 00 00 00
-# 
-name: Scan
+name: VOL-
 type: parsed
 protocol: NEC
 address: 20 00 00 00
 command: 07 00 00 00
 # 
-name: TrebleUp
+name: MUTE
+type: parsed
+protocol: NEC
+address: 20 00 00 00
+command: 1E 00 00 00
+# 
+name: Bass_up
+type: parsed
+protocol: NEC
+address: 20 00 00 00
+command: 0E 00 00 00
+# 
+name: Bass_down
+type: parsed
+protocol: NEC
+address: 20 00 00 00
+command: 1A 00 00 00
+# 
+name: Input
+type: parsed
+protocol: NEC
+address: 20 00 00 00
+command: 0D 00 00 00
+# 
+name: Treble_up
 type: parsed
 protocol: NEC
 address: 20 00 00 00
 command: 00 00 00 00
 # 
-name: TrebleDown
+name: Treble_down
 type: parsed
 protocol: NEC
 address: 20 00 00 00
 command: 03 00 00 00
 # 
-name: Voice
+name: Music
 type: parsed
 protocol: NEC
 address: 20 00 00 00
-command: 14 00 00 00
+command: 1D 00 00 00
+# 
+name: Cinema
+type: parsed
+protocol: NEC
+address: 20 00 00 00
+command: 19 00 00 00
+# 
+name: Concert
+type: parsed
+protocol: NEC
+address: 20 00 00 00
+command: 15 00 00 00
+# 
+name: Gaming
+type: parsed
+protocol: NEC
+address: 20 00 00 00
+command: 12 00 00 00
+# 
+name: Bt_pair
+type: parsed
+protocol: NEC
+address: 20 00 00 00
+command: 01 00 00 00
+# 
+name: Bt_stop
+type: parsed
+protocol: NEC
+address: 20 00 00 00
+command: 1F 00 00 00
+# 
+name: Bt_play_pause
+type: parsed
+protocol: NEC
+address: 20 00 00 00
+command: 1B 00 00 00
+# 
+name: Bt_next
+type: parsed
+protocol: NEC
+address: 20 00 00 00
+command: 17 00 00 00
+# 
+name: Bt_back
+type: parsed
+protocol: NEC
+address: 20 00 00 00
+command: 0F 00 00 00
+# 
+name: Reset
+type: parsed
+protocol: NEC
+address: 20 00 00 00
+command: 11 00 00 00
