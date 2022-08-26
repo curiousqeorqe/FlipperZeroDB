@@ -3,19 +3,19 @@ Version: 1
 # 
 # Arizer Extreme Q2 Vaporizer
 #
-name: Power
+name: POWER
 type: parsed
 protocol: NEC
 address: 01 00 00 00
 command: 1B 00 00 00
 # 
-name: Temp_UP
+name: TEMP+
 type: parsed
 protocol: NEC
 address: 01 00 00 00
 command: 05 00 00 00
 # 
-name: Temp_DOWN
+name: TEMP-
 type: parsed
 protocol: NEC
 address: 01 00 00 00
