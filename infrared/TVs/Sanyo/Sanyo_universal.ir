@@ -1,7 +1,9 @@
 Filetype: IR signals file
 Version: 1
 # 
-name: Power
+# Sanyo Universal TV Remote
+#
+name: POWER
 type: parsed
 protocol: NEC
 address: 38 00 00 00
@@ -13,7 +15,7 @@ protocol: NEC
 address: 38 00 00 00
 command: 54 00 00 00
 # 
-name: V_up
+name: VOL+
 type: parsed
 protocol: NEC
 address: 38 00 00 00
@@ -25,19 +27,19 @@ protocol: NEC
 address: 38 00 00 00
 command: 0F 00 00 00
 # 
-name: Mute
+name: MUTE
 type: parsed
 protocol: NEC
 address: 38 00 00 00
 command: 18 00 00 00
 # 
-name: Ch_up
+name: CH+
 type: parsed
 protocol: NEC
 address: 38 00 00 00
 command: 0A 00 00 00
 # 
-name: Ch_down
+name: CH-
 type: parsed
 protocol: NEC
 address: 38 00 00 00
