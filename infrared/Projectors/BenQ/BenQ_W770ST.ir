@@ -1,8 +1,8 @@
 Filetype: IR signals file
 Version: 1
-#
-# BenQ DLP Projector W1070
 # 
+# BenQ Projector W770ST
+#
 name: POWER
 type: parsed
 protocol: NECext
@@ -57,17 +57,17 @@ protocol: NECext
 address: 00 30 00 00
 command: 0F F0 00 00
 # 
-name: EcoBlank
-type: parsed
-protocol: NECext
-address: 00 30 00 00
-command: 07 F8 00 00
-# 
 name: Auto
 type: parsed
 protocol: NECext
 address: 00 30 00 00
 command: 08 F7 00 00
+# 
+name: Eco_Blank
+type: parsed
+protocol: NECext
+address: 00 30 00 00
+command: 07 F8 00 00
 # 
 name: Source
 type: parsed
@@ -75,19 +75,25 @@ protocol: NECext
 address: 00 30 00 00
 command: 04 FB 00 00
 # 
-name: Up
+name: Mode_Enter
+type: parsed
+protocol: NECext
+address: 00 30 00 00
+command: 10 EF 00 00
+# 
+name: Up_Trapez
 type: parsed
 protocol: NECext
 address: 00 30 00 00
 command: 0B F4 00 00
 # 
-name: Down
+name: Down_Trapez
 type: parsed
 protocol: NECext
 address: 00 30 00 00
 command: 0C F3 00 00
 # 
-name: Left_VolDwn
+name: Left_VolDown
 type: parsed
 protocol: NECext
 address: 00 30 00 00
@@ -98,12 +104,6 @@ type: parsed
 protocol: NECext
 address: 00 30 00 00
 command: 0E F1 00 00
-# 
-name: Mode_Enter
-type: parsed
-protocol: NECext
-address: 00 30 00 00
-command: 10 EF 00 00
 # 
 name: Aspect
 type: parsed
@@ -123,19 +123,19 @@ protocol: NECext
 address: 00 30 00 00
 command: 99 66 00 00
 # 
-name: User1
+name: User_1
 type: parsed
 protocol: NECext
 address: 00 30 00 00
 command: 75 8A 00 00
 # 
-name: User2
+name: User_2
 type: parsed
 protocol: NECext
 address: 00 30 00 00
 command: 76 89 00 00
 # 
-name: User3
+name: User_3
 type: parsed
 protocol: NECext
 address: 00 30 00 00
@@ -165,7 +165,7 @@ protocol: NECext
 address: 00 30 00 00
 command: 79 86 00 00
 # 
-name: ColorTemp
+name: Color_Temp
 type: parsed
 protocol: NECext
 address: 00 30 00 00
