@@ -2,7 +2,6 @@ Filetype: IR signals file
 Version: 1
 # 
 # Universal Fan IR codes - by Edhel90/Vossbender
-# This file attempts to map all the Fans from https://github.com/UberGuidoZ/Flipper-IRDB
 # Currently POWER, Speed, Mode and Oscillate buttons ONLY 
 # Duplicates may still occur 
 #
